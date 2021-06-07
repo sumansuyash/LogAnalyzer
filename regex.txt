@@ -1,0 +1,4 @@
+Regex to generate dataset:
+201\d-[0-1][1-2]-[0-2][1-8] [0-2][1-3]:[0-5][1-9]:[0-5][1-9],\d{3} \|\| DEBUG \|\| \w{10} \|\| com\.\w\.\w \|\| \w{5} \|\| (ExceptionA|\w{10}|ExceptionB|ExceptionAa|ExceptionAB|ExceptionBA) \|\| \^\^
+Sample data(row):
+2021-05-18 01:00:31,433 || DEBUG || alertsExpressMQ || com.a.b.c || setMsg || Importance ||  ^^

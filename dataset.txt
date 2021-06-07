@@ -1,5 +1,5 @@
 2013-01-24 14:14:14,951 || DEBUG || YbUVSKnEpy || com.7.P || 4j0jM || umBOqdvdsf || ^^
-2015-00-20 01:89:05,691 || DEBUG || 2gKqOTOmpk || com.i.6 || oHoXT || exceptionB:/message/name[@id='noticeId'] || ^^
+2015-00-20 01:89:05,691 || DEBUG || 2gKqOTOmpk || com.i.6 || oHoXT || ExceptionB || ^^
 2010-00-08 98:18:81,455 || DEBUG || r5kRKlyrtH || com.w.Z || JkuZa || ExceptionB || ^^
 2010-00-25 05:38:25,493 || DEBUG || qlp7Px1MIw || com.A.k || dMubh || ExceptionB || ^^
 2014-11-09 72:11:12,721 || DEBUG || OQMIRPybHL || com.W.K || W_mDu || ExceptionA || ^^
